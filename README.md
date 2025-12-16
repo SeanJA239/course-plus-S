@@ -1,8 +1,8 @@
 <div align="center">
 
-📅 Course-Plus by Gemini
+<h1>📅 Course-Plus by Gemini</h1>
 
-A Modern University Schedule Planner
+<h2>A Modern University Schedule Planner</h2>
 
 现代化的大学排课助手
 
@@ -74,7 +74,7 @@ Auto-save to localStorage, JSON backup, and iCal (.ics) export.
 
 1. Clone / 克隆项目
 
-`git clone [https://github.com/hlzx-cpu/course-plus.git](https://github.com/hlzx-cpu/course-plus.git)`
+`git clone [https://github.com/hlzx-cpu/course-plus.git](https://github.com/hlzx-cpu/course-plus.git)\n`
 `cd course-plus`
 
 
