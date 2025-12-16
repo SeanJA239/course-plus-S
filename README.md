@@ -74,18 +74,18 @@ Auto-save to localStorage, JSON backup, and iCal (.ics) export.
 
 1. Clone / 克隆项目
 
-git clone [https://github.com/hlzx-cpu/course-plus.git](https://github.com/hlzx-cpu/course-plus.git)
-cd course-plus
+`git clone [https://github.com/hlzx-cpu/course-plus.git](https://github.com/hlzx-cpu/course-plus.git)`
+`cd course-plus`
 
 
 2. Install / 安装依赖
 
-npm install
+`npm install`
 
 
 3. Run / 启动本地服务
 
-npm run dev
+`npm run dev`
 
 
 Open your browser at http://localhost:5173
@@ -95,11 +95,11 @@ Open your browser at http://localhost:5173
 The easiest way to deploy is using Vercel.
 推荐使用 Vercel 进行自动化部署。
 
-Login: Go to Vercel.com and login with GitHub.
+`Login: Go to Vercel.com and login with GitHub.`
 
-Import: Select the course-plus repository.
+`Import: Select the course-plus repository.`
 
-Deploy: Click Deploy (Framework Preset: Vite).
+`Deploy: Click Deploy (Framework Preset: Vite).`
 
 
 📄 License
