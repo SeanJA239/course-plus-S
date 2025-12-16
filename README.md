@@ -1,6 +1,6 @@
 <div align="center">
 
-📅 Course-Plus
+📅 Course-Plus by Gemini
 
 A Modern University Schedule Planner
 
@@ -8,12 +8,6 @@ A Modern University Schedule Planner
 
 <!-- Badges -->
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dflat-square%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-B73BFE%3Fstyle%3Dflat-square%26logo%3Dvite%26logoColor%3DFFD62E" alt="Vite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-blue.svg%3Fstyle%3Dflat-square" alt="License" />
-</p>
 
 <!-- Short Description -->
 
